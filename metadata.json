@@ -1,0 +1,7 @@
+{
+  "name": "한옥마을 걸신 피하기 - 붉은 귀신의 사과",
+  "description": "한옥마을의 걸신들을 피해 사과 5개를 모으고 홍고추 부스터를 활용하여 붉은 귀신에게 전달하는 액션 아케이드 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
